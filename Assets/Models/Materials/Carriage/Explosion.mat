@@ -65,7 +65,7 @@ Material:
     m_Floats:
     - _Amount: 1
     - _BumpScale: 1
-    - _ClipRange: 0.635
+    - _ClipRange: 0.489
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -76,9 +76,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Period: 1
+    - _Period: 0.881
     - _Radius: 2
-    - _RampOffset: -0.164
+    - _RampOffset: -0.191
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
